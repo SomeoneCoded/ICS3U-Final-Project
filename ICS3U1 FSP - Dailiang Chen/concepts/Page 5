@@ -1,0 +1,10 @@
+Primitive Variables vs Reference Variables:
+
+Primitive Variables: These variables can only store one value at a time.
+E.g. boolean, byte, char, double, float, int, long, short
+Primitive instance variables can be initialized by java. However, it is recommended to initialize a value.
+
+Reference Variables (References): Stores locations of objects in a memory. 
+They usually refer to an object in the program. These objects contain instance variables and methods. 
+E.g. String
+By default, reference instance variables are null.

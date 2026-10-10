@@ -1,0 +1,7 @@
+Floating points vs Doubles:
+
+Floating Points: Numbers with decimal points. They can store up to 7 decimal places.
+You can use %.f to format a number to a specified number of decimal places.
+
+Doubles: Numbers with a decimal points. They can store up to 15 decimal places (double than a float).
+Scanner nextDouble returns a double value entered by a user.

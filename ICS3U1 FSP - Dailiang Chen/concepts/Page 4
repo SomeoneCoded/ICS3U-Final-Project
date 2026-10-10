@@ -1,0 +1,11 @@
+Local Variables vs Instance Variables:
+
+Local Variables: These variables are found within a method and cannot be accessed outside from the method. 
+Once the method has completed its tasks, memory to the variables will be deallocated.
+
+Instance variables (Fields): These are variables found within a class, but are outside the class's methods. 
+These variables hold attributes of an object. Every instance of an object will hold a unique copy of its instance variables.
+Instance variables are usually private because of the sensitivity of its information. To access them, you would need a set method and a get method.
+Set methods (modifiers) allow you to change the information of an instance variable.
+Get methods (access) allow you to get an instance variable's information.
+For instance variables, Java provides a default value so you do not need to initialize them.

@@ -1,0 +1,12 @@
+Constructors:
+
+To create an object, java requires a constructor call.
+Java can provide a default constructor with no parameters and default instance variables.
+Users can also initialize a constructor that takes in certain parameters
+Constructors are normally public and they must have the same name as the class.
+E.g.
+public class Class{
+	public Constructor(type parameter){
+		// Methods
+	}
+}

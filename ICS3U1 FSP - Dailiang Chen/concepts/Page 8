@@ -1,0 +1,27 @@
+Class: Blueprint (A plan to make other objects)
+
+Object: Has attribute to perform tasks (Object of real-life application)
+
+Instance: An object maintaining its copy of an attribute (Individual object)
+
+Access Modifier (including public and private): Allows certain access to methods, classes, and objects (+ → Public; - → Private; # → Protected)
+
+Instance Variable (Field): Variables within classes (One particular property of a class)
+
+Constructor Method: Initializes objects of a class when created. To build an object.
+
+Unified Modeling Language Class Diagram: Visualizes and models a system with classes
+
+Import Statement: Import methods from other classes (import package.class.method)
+
+Parameter: Placeholder of method
+
+Argument: Values shared with the parameters
+
+Set Method: Modifier methods (modify instance variables)
+
+Get Method: Access methods (return the instance variable)
+
+Primitive Type: Stores one value at its declared time (boolean, char, int, long, double, float, short)
+
+Reference Type: Refers to an object in a program (String). Stores the location of the object in the computer’s memory. Default is null

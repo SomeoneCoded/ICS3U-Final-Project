@@ -1,0 +1,50 @@
+1. What is an object in object-oriented programming?
+a) A variable that holds a single value
+b) A function that performs a specific task
+c) An instance of a class with its own set of attributes and methods
+d) A reserved keyword used to declare variables
+2. Which keyword is used to create a new instance of a class in Java?
+a) new
+b) class
+c) instance
+d) this
+3. What is encapsulation in object-oriented programming?
+a) The process of hiding the implementation details of a class
+b) The process of inheriting properties and behaviors from a parent class
+c) The process of creating multiple instances of a class
+d) The process of breaking down a complex problem into smaller parts
+4. Inheritance in object-oriented programming allows:
+a) A class to inherit properties and behaviors from another class
+b) A class to have multiple parents
+c) A class to override methods from its parent class
+d) All of the above
+5. What is a constructor in Java?
+a) A method used to destroy objects
+b) A special method used to initialize objects
+c) A method used to create static variables
+d) A method used to compare objects
+6. Which keyword is used to declare a class in Java?
+a) class
+b) public
+c) private
+d) static
+7. Which of the following is NOT a valid access modifier in Java?
+a) public
+b) protected
+c) internal
+d) private
+8. Which of the following is NOT a part of a class definition?
+a) Fields
+b) Methods
+c) Constructors
+d) Objects
+9. What is the keyword used to refer to the current instance of a class in Java?
+a) self
+b) this
+c) current
+d) instance
+10. Which of the following best describes a class in object-oriented programming?
+a) A blueprint for creating objects
+b) A method for performing a specific task
+c) A variable that holds a single value
+d) A reserved keyword used to declare variables

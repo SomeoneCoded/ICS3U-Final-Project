@@ -1,0 +1,16 @@
+Parameters:
+
+Methods can have parameters. This is the additional information the method requires to use in its tasks.
+Parameters are defined in a comma separated list found within the method's parenthesis. They must specify a data type followed by its identifier. 
+
+	public void methodName(type parameter1, type parameter2){
+		System.out.println(parameter1, parameter2);
+	}
+
+During the method call, the number of arguments must match the number of parameters along with the parameter's data type.
+
+Import statements:
+
+To import a class from another package, you must explicitly import by indicating the package name followed by its class name. E.g. import package.class.method;
+If the class is within the same package, these classes are implicitly imported.
+You don't need to do a declaration if you refer the class by its fully quantified class name.

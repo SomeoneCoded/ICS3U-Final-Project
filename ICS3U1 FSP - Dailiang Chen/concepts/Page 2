@@ -1,0 +1,24 @@
+Methods:
+
+Methods are properties of an object. They are used to define properties and behaviors of an object.
+To execute a method, the user must call its name for it to perform a task. 
+An exception to this rule is with the main method. This method is automatically performed by Java's Virtual Machine and it is used to execute the application
+
+Methods have return types. Return types is what data gets returned from the method after it performs a task.
+A void return type means the method will perform its tasks, but it will not return any information.
+
+Methods also have access modifiers. There are three types: Public, Private, Protected
+Public: These methods can be accessed from other classes. It is useful for when you want the program/interface to change its information.
+Private: These methods can only be called by other instance methods from its class and cannot be invoked on an object. Usually these methods hold sensitive information that are not supposed to be changed, and don't output information.
+Protected: A balance between public and private methods. Only objects of the same class the method is located in can access it.
+Static methods can also be specially accessed. They do not require an object of its class for it to be used.
+
+The following explains the method header (signature):
+The method name follows the return type in the method declaration.
+The method name is lower case. If the name has more than one word, the following words are upper case. This is known as camel case.
+Empty parentheses means there are no additional arguments the method needs to take in.
+Every method header is followed by left and right braces that contain one or more statements that perform tasks. 
+
+Objects:
+To instantiate an object, you need to put the keyword "new" followed by your class's constructor name. E.g. new ObjectClass()
+To call an object's method, put the object variable name followed by "." then the method. E.g. objectName.methodName() 

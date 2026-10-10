@@ -1,0 +1,16 @@
+Classes:
+
+Classes are programs that contain methods that build the final product.
+Here’s an analogy to help you understand.
+An automatic car has two pedals: A gas pedal and a brake pedal. 
+At the driver level (the user level), they at least need to know that the gas pedal allows them to accelerate the car and the brake pedal stops the car. 
+The behind-the-scenes acceleration and brakes are hidden away, built by the engineers who built the car. 
+In this example, cars are a class, and the accelerator and the brakes are methods.
+
+Objects:
+
+You need to create an object of a class before you can use the methods of a class. 
+Think of an object like an everyday item. 
+For example, a car is a type of object. 
+It has attributes like size, colour, fuel mileage, etc. 
+Additionally, it has methods for accelerate and stop.
